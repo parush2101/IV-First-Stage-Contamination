@@ -1,0 +1,21 @@
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.bbl
+*.blg
+*.spl
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# Backups and editor junk
+*.bak
+*~
+.DS_Store
+
+# R session artifacts
+.Rhistory
+.RData
+.Rproj.user/
